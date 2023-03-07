@@ -1,2 +1,2 @@
 My first readme
-By Andy Muriit
+README update from github.com
