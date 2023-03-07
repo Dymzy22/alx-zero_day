@@ -1,2 +1,2 @@
 My first readme
-By Andy Muriithi
+By Andy Muriit
